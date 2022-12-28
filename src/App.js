@@ -6,7 +6,7 @@ import { useReducer } from 'react';
 function App() {
 
 
-  return ( <h1> hii </h1>)
+  return 
    
   
 }
