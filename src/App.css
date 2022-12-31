@@ -1,0 +1,14 @@
+.row{ 
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+.card{
+    margin: 30px;
+    
+}
+.btn{
+display: flex;
+justify-content:space-around;
+background-color: black;
+}
