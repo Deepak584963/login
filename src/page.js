@@ -8,10 +8,10 @@ const {nextpage, prevpage} = useGlobelcontext();
   return (
     <div>
        <div className="btnn">
-        <button className="" onClick={nextpage}>
+        <button className="btn btn-primary" onClick={nextpage}>
           next
         </button>
-        <button className="" onClick={prevpage}>
+        <button className="btn btn-primary" onClick={prevpage}>
           prev
         </button>
       </div>

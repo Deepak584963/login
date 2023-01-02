@@ -7,8 +7,8 @@ justify-content: space-around;
     margin: 30px;
     
 }
-.btn{
+.btnn{
 display: flex;
-justify-content:space-around;
+justify-content: space-around;
 background-color: black;
 }
