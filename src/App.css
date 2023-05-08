@@ -1,4 +1,4 @@
-.row{ 
+.item{ 
 display: flex;
 align-items: center;
 justify-content: space-around;
@@ -7,8 +7,9 @@ justify-content: space-around;
     margin: 30px;
     
 }
-.btnn{
+.massege{
+    margin-top: 40%;
 display: flex;
 justify-content: space-around;
-background-color: black;
+
 }
