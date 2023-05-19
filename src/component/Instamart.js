@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Home = () => {
+function Instamart() {
   return (
     <div>
-      <h1>Home</h1>
+      Instamart
     </div>
   )
 }
 
-export default Home
+export default Instamart

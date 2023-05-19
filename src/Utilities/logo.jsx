@@ -1,0 +1,1 @@
+export const LOGO = "https://www.creativefabrica.com/wp-content/uploads/2021/05/15/restaurant-logo-Graphics-12037886-1-1-580x435.jpg"

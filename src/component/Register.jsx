@@ -22,7 +22,7 @@ async function Submitdata(e){
  const {firstName,lastName,Email,Password,city,state,zip} = data
  console.log(firstName,lastName,Email,Password,city,state,zip)
  try {
-          const res = await Axios.post("/register",{
+          const res = await Axios.post("http://localhost:5000/register",{
             // method:'POST',
             // headers:{
             //   "Content-Type": "application/json"
@@ -41,7 +41,7 @@ async function Submitdata(e){
  } catch (error) {
   console.log(error) 
  }
-  }
+  };
       
     
     // Example starter JavaScript htmlFor disabling form submissions if there are invalid fields
